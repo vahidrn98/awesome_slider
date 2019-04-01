@@ -40,6 +40,7 @@
       height: 35px;
       border-radius: 50% 50% 0;
       border-color: transparent;
+        outline:none;
       transition: border 0.4s ease; }
                       
       /* #flat-slider.ui-slider .ui-slider-handle.ui-state-hover, 
